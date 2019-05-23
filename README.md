@@ -10,3 +10,4 @@ The smart bin has features of:
 
 -Real time data analytics ready.
 
+-->All the codes have been developed using Energia IDE whose reference of libraries and frameworks can be found here: _https://github.com/energia/Energia_
